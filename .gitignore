@@ -139,5 +139,5 @@ dist
 
 node_modules/
 package-lock.json
-**/img
-./src/img
+# **/img
+# ./src/img
