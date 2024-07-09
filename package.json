@@ -1,6 +1,6 @@
 {
   "name": "@epiphanyzz/easy-blog-card",
-  "description": "A simple reusable badge and pill using React.js",
+  "description": "A simple reusable blog card",
   "version": "1.0.0",
   "main": "./dist/bundle.js",
   "module": "./dist/bundle.js",
