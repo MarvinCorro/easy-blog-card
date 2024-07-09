@@ -13,7 +13,7 @@ module.exports = {
     path: path.resolve(__dirname, '../dist'),
     globalObject: 'this',
     library: {
-      name: '@epiphanyzz/easy-badge',
+      name: '@epiphanyzz/easy-blog-card',
       type: 'umd',
     },
   },

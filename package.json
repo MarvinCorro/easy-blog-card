@@ -1,10 +1,10 @@
 {
-  "name": "@epiphanyzz/easy-badge",
+  "name": "@epiphanyzz/easy-blog-card",
   "description": "A simple reusable badge and pill using React.js",
   "version": "1.0.1",
   "main": "./dist/bundle.js",
   "module": "./dist/bundle.js",
-  "repository": "https://github.com/MarvinCorro/easy-badge",
+  "repository": "https://github.com/MarvinCorro/easy-blog-card",
   "scripts": {
     "clean": "rm -f ./dist",
     "build-dev": "webpack serve --config ./webpack/webpack.dev.config.js --progress",
